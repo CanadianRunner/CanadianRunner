@@ -26,7 +26,7 @@ I'm a full-stack developer currently studying at [Epicodus](https://www.epicodus
 - ❓ Ask me about my past projects, how I separate my logic, and my philosophy on pair programming.  
   
 
-- ⚡ I was born and raised in Canada and I'm also an Irish citizen.  Being Irish my favourite daily beverage is a cup of Barry's Irish Breakfast tea.  I currently live in Portland Oregon with my lovely wife.   
+- ⚡ As an Irish/Canadian you'll find me happiest with a bowl of poutine and a cup of Barry's Irish Breakfast tea.  I currently live in Portland Oregon with my lovely wife.   
 
 
 </td><td valign="top" width="50%">

@@ -1,4 +1,7 @@
-### Hi there 👋
+### ![sean](https://user-images.githubusercontent.com/92278905/171544579-634a1576-ecac-4d03-bf97-c0bfe6f43a08.png) Hi there welcome to my Github! ![tea](https://user-images.githubusercontent.com/92278905/171544417-77bd7f35-7739-4dff-ade3-270db03e82b7.png)
+
+My name is Sean Keane and I'm a junior developer currently studying at [https://www.epicodus.com/](Epicodus)
+
 
 <!--
 **CanadianRunner/CanadianRunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

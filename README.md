@@ -1,14 +1,11 @@
 ### ![sean](https://user-images.githubusercontent.com/92278905/171544579-634a1576-ecac-4d03-bf97-c0bfe6f43a08.png) Hi there welcome to my Github! ![tea](https://user-images.githubusercontent.com/92278905/171544417-77bd7f35-7739-4dff-ade3-270db03e82b7.png)
 
-<a href="https://github.com/https://github.com/CanadianRunner" target="_blank">
+<a href="https://github.com/CanadianRunner" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sean-keane-portland/" target="_blank">
+<a href="https://linkedin.com/in/sean-keane-portland" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I'm a full-stack developer currently studying at [Epicodus](https://www.epicodus.com/).  I am in the C#/React track and am well on my way to beginning my career in this exciting field!  I enjoy technology and engineering solutions, this lead me to pursue a career in computer programming.   

@@ -84,7 +84,8 @@ I'm a full-stack developer currently studying at [Epicodus](https://www.epicodus
   
 
 <br/>  
-![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/171554081-bc15e339-7fed-4b79-b720-a7f6811d16c1.jpg)
+![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/171554179-19924065-0936-4ca1-b87e-5c0fb562720c.jpg)
+
 
 Feel free to reach me at code@sean-keane.com  
 

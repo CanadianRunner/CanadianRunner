@@ -72,18 +72,6 @@ I'm a full-stack developer currently studying at [Epicodus](https://www.epicodus
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 <!-- ![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/171554963-43494bc3-1203-4db2-b1e9-ca472d156529.jpg) -->
 
 

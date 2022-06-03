@@ -14,7 +14,7 @@ I'm a full-stack developer currently studying at [Epicodus](https://www.epicodus
 <br/>  
 
 
-## Rapidfire  
+## About Me!  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Github F1 Tracker](repo to team week)  

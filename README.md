@@ -31,7 +31,9 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+ ![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/172033751-aa14f178-24a1-4f90-9c5f-72a79706248c.jpg)
+
 </div>  
 
 
@@ -72,11 +74,4 @@
 
 </td></tr></table>  
 
-<br/>  
-<!-- ![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/171554963-43494bc3-1203-4db2-b1e9-ca472d156529.jpg) -->
-
-
-Feel free to reach me at code@sean-keane.com  
-
-
-<br />
+<br/>

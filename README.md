@@ -1,7 +1,7 @@
 ### ![sean](https://user-images.githubusercontent.com/92278905/171544579-634a1576-ecac-4d03-bf97-c0bfe6f43a08.png) Hi there welcome to my Github! ![tea](https://user-images.githubusercontent.com/92278905/171544417-77bd7f35-7739-4dff-ade3-270db03e82b7.png)
 
-<a href="https://github.com/CanadianRunner" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="mailto:code@sean-keane.com?" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/sean-keane-portland" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

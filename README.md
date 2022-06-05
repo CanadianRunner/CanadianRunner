@@ -16,7 +16,7 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [F1 Tracker group project](https://github.com/CanadianRunner/Formula-One-App)  
+- 🔭 I’m currently working on an [F1 Tracker group project](https://github.com/CanadianRunner/Formula-One-App)  
   
 
 - 🌱 I’m currently learning about Asynchrony and API's.  

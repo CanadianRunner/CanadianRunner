@@ -32,7 +32,7 @@
 
 <div align="center">
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
- ![Sean Profile Pic1](https://user-images.githubusercontent.com/92278905/172033751-aa14f178-24a1-4f90-9c5f-72a79706248c.jpg)
+
 
 </div>  
 

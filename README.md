@@ -53,7 +53,9 @@
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="60" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="60" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="60" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="60" /> 
+<img style="margin: 30px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" height="30" />
+<img style="margin: 30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="jest" height="30" />
 </div>  
 
 <br/>  

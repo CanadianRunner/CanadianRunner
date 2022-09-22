@@ -19,7 +19,7 @@
 <!-- - 🔭 I’m currently working on an [F1 Tracker group project](https://github.com/CanadianRunner/Formula-One-App)   -->
   
 
-- 🌱 I’m currently learning about C#. 
+- 🌱 I’m currently learning about React. 
   
 
 - ❓ Ask me about my past projects, how I separate my logic, and my philosophy on pair programming.  

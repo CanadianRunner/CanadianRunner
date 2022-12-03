@@ -16,7 +16,7 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an [Apothecary website group project](https://github.com/ArthurEOrtiz/DottiesApothecarry.Solution)  
+- 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)  
   
 
 - 🌱 I’m currently learning about React and functional programming. 

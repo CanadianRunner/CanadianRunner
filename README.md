@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-### I'm a web developer recently graduated from [Epicodus](https://www.epicodus.com/).  I am pursuing a B.S. in software engineering from WGU and am well on my way to beginning my career in this exciting field!  I enjoy technology and engineering solutions, this led me to pursue a career in computer programming.   
+### I'm a web developer who recently graduated from [Epicodus's](https://www.epicodus.com/) 40 week Full Stack development (C#/React track).  I am pursuing a B.S. in software engineering from WGU and am well on my way to beginning my career in this exciting field!  I enjoy technology and engineering solutions, this led me to pursue a career in computer programming.   
   
 
 <br/>  

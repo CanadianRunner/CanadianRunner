@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-### I'm a web developer currently studying at [Epicodus](https://www.epicodus.com/).  I am nearly finished with the full stack C#/React certification and am well on my way to beginning my career in this exciting field!  I enjoy technology and engineering solutions, this led me to pursue a career in computer programming.   
+### I'm a web developer recently graduated from [Epicodus](https://www.epicodus.com/).  I am pursuing a B.S. in software engineering from WGU and am well on my way to beginning my career in this exciting field!  I enjoy technology and engineering solutions, this led me to pursue a career in computer programming.   
   
 
 <br/>  
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)  
   
 
-- 🌱 I’m currently learning about React and functional programming. 
+<!-- - 🌱 I’m currently learning about React -->
   
 
 - ❓ Ask me about my past projects, how I separate my logic, and my philosophy on pair programming.  

@@ -15,6 +15,8 @@
 
 ## About Me!  
 <table><tr><td valign="top" width="50%">
+  <br>
+  <br>
 
 - 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)  
   

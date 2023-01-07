@@ -17,8 +17,10 @@
 <table><tr><td valign="top" width="50%">
   <br>
   <br>
-
-- 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)  
+  
+- 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)
+  <br>
+     The latest build is hosted on my custom server [sean-keane.com](https://sean-keane.com/)
   
 
 <!-- - 🌱 I’m currently learning about React -->

@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>    
 
-### I'm a web developer who recently graduated from [Epicodus's](https://www.epicodus.com/) 40-week Full Stack development certification (C#/React track). I am pursuing a B.S. in software engineering from [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html), and I am excited to begin my journey in the tech industry with my internship at Corellian Software. I enjoy technology and engineering solutions; this led me to pursue a career in computer programming.
+### I'm a junior web developer currently working at [Corellian Software](https://m.eprlive.com/).  I completed a time intensive certificiation from [Epicodus's](https://www.epicodus.com/) 40-week Full Stack development certification (C#/React track). I am pursuing a B.S. in software engineering from [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html). I enjoy technology and engineering solutions; this led me to pursue a career in computer programming.
   
 
 <br/>  

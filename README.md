@@ -9,6 +9,7 @@
 
 ### I'm a full-stack developer at a SaaS company in Portland, Oregon.  I'm pursuing a B.S. in Software Engineering from [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html) and completed [Epicodus's](https://www.epicodus.com/) 40-week Full Stack development certification (C#/React track).  I enjoy technology and engineering solutions, leading to a software engineering career.
 
+
 <br/>  
 
 

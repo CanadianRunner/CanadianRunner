@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>    
 
-### I'm a full-stack developer at a SAAS company in Portland, Oregon.  I am pursuing a B.S. in Software Engineering from [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html) and completed [Epicodus's](https://www.epicodus.com/) 40-week Full Stack development certification (C#/React track).  I enjoy technology and engineering solutions, leading me to a software engineering career.
+### I'm a full-stack developer at a SAAS company in Portland, Oregon.  I'm pursuing a B.S. in Software Engineering from [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html) and completed [Epicodus's](https://www.epicodus.com/) 40-week Full Stack development certification (C#/React track).  I enjoy technology and engineering solutions, leading to a software engineering career.
   
 
 <br/>  

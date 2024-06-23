@@ -37,7 +37,7 @@ I have experience as a full-stack developer for a SaaS company in Portland, Oreg
 - ❓ Ask me about my past projects, how I separate my logic, and my philosophy on pair programming.  
   
 
-- ⚡ As an Irish/Canadian you'll find me happiest with a bowl of poutine and a cup of Barry's Irish Breakfast tea.  I currently live in Portland Oregon with my lovely wife.   
+- ⚡ As an Irish/Canadian, you'll find me happiest with a bowl of poutine and a cup of Barry's Irish Breakfast tea.  
 
 
 </td><td valign="top" width="50%">

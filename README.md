@@ -16,7 +16,7 @@
 <br />
 
 <div align="center">
-I have experience as a full-stack developer for a SaaS company in Portland, Oregon. I'm pursuing a B.S. in Software Engineering from <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html">Western Governors University</a> and completed <a href="https://www.epicodus.com/">Epicodus</a>'s 40-week Full Stack development certification (C#/React track). I enjoy technology and engineering solutions, leading to a software engineering career.
+I have experience as a full-stack developer in Portland, Oregon. I'm pursuing a B.S. in Software Engineering from <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html">Western Governors University</a> and completed <a href="https://www.epicodus.com/">Epicodus</a>'s 40-week Full Stack development certification (C#/React track). I enjoy technology and engineering solutions, leading to a software engineering career.
 </div>
  
 

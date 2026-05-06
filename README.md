@@ -26,7 +26,7 @@ I am a Security Operations Engineer at Microsoft and live in Portland, Oregon. I
   <br>
   <br>
   
-- 🔭 I’m currently working on an [My Portfolio Webpage](https://github.com/CanadianRunner/Portfolio-Capstone.git)
+- 🔭 I’m currently working on a [Gas Pump to EV Charger Conversion](https://github.com/CanadianRunner/Esso_Charger_Project)
   <br>
      The latest build is hosted on my custom server [sean-keane.com](https://sean-keane.com/)
   
